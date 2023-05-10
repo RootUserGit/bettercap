@@ -1,4 +1,4 @@
-module github.com/bettercap/bettercap
+module github.com/RootUserGit/bettercap
 
 go 1.16
 
